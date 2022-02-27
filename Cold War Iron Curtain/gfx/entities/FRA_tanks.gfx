@@ -36,14 +36,6 @@ objectTypes = {
 		animation = { id = "attack"			type = "FRA_modern_armor_attack_animation" }
 	}
 	
-		pdxmesh = {
-		name = "AMX50B_mesh"
-		file = "gfx/models/units/tanks/amx50.mesh"
-
-		animation = { id = "attack"			type = "ENG_medium_armor_1_attack_animation" }
-		animation = { id = "idle"			type = "ENG_medium_armor_1_idle_animation" }
-		animation = { id = "move"			type = "ENG_medium_armor_1_moving_animation" }
-	}
 	
 	pdxmesh = {
 		name = "FRA_amx13_mesh"
@@ -67,15 +59,7 @@ objectTypes = {
 		scale = 0.7
 	}
 	
-	pdxmesh = {
-		name = "AMX50B_mesh"
-		file = "gfx/models/units/tanks/amx50.mesh"
 
-		animation = { id = "attack"			type = "ENG_medium_armor_1_attack_animation" }
-		animation = { id = "idle"			type = "ENG_medium_armor_1_idle_animation" }
-		animation = { id = "move"			type = "ENG_medium_armor_1_moving_animation" }
-	}
-	
 pdxmesh = {
 		name = "FRA_tank_AMX_mesh"
 		file = "gfx/models/units/tanks/FRA_tank_medium.mesh"

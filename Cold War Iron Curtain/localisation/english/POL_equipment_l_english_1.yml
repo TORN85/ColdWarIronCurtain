@@ -24,8 +24,17 @@
  POL_ht_equipment_1:0 "IS-2"
  POL_ht_equipment_1_short:0 "IS-2"
  
- POL_ht_equipment_2:0 "IS-3"
- POL_ht_equipment_2_short:0 "IS-3"
+ POL_ht_equipment_2:0 "IS-2M"
+ POL_ht_equipment_2_short:0 "IS-2M"
+ 
+ POL_ht_equipment_3:0 "IS-3"
+ POL_ht_equipment_3_short:0 "IS-3"
+ 
+ POL_ht_equipment_4:0 "50TP Tyszkiewicza"
+ POL_ht_equipment_4_short:0 "50TP Tyszkiewicza"
+ 
+ POL_ht_equipment_5:0 "60TP Lewandowskiego"
+ POL_ht_equipment_5_short:0 "60TP Lewandowskiego"
 
 
 

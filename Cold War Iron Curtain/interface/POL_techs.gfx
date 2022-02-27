@@ -48,7 +48,7 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_POL_main_battle_tanks_2_medium"
-		texturefile = "gfx/interface/technologies/SOV_mbt_2.dds"
+		texturefile = "gfx/interface/technologies/POL_mbt_2.dds"
 	}
 
 	SpriteType = {
@@ -90,27 +90,27 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_POL_heavy_tanks_1_medium"
-		texturefile = "gfx/interface/technologies/POL_ht_1.dds"
+		texturefile = "gfx/interface/technologies/POL_ht_0.dds"
 	}
 
 	SpriteType = {
 		name = "GFX_POL_heavy_tanks_2_medium"
-		texturefile = "gfx/interface/technologies/POL_ht_2.dds"
+		texturefile = "gfx/interface/technologies/POL_ht_1.dds"
 	}
 	
 	SpriteType = {
 		name = "GFX_POL_heavy_tanks_3_medium"
-		texturefile = "gfx/interface/technologies/SOV_ht_3.dds"
+		texturefile = "gfx/interface/technologies/POL_ht_2.dds"
 	}
 	
 	SpriteType = {
 		name = "GFX_POL_heavy_tanks_4_medium"
-		texturefile = "gfx/interface/technologies/SOV_ht_4.dds"
+		texturefile = "gfx/interface/technologies/POL_ht_4.dds"
 	}
 	
 	SpriteType = {
 		name = "GFX_POL_heavy_tanks_5_medium"
-		texturefile = "gfx/interface/technologies/SOV_ht_5.dds"
+		texturefile = "gfx/interface/technologies/POL_ht_5.dds"
 	}
 
 ##MOTORISED

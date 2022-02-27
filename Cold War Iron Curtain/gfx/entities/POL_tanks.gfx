@@ -13,6 +13,18 @@ objectTypes = {
 	}
 	
 	pdxmesh = {
+		name = "POL_t70_mesh"
+		file = "gfx/models/units/tanks/t70.mesh"
+
+		animation = { id = "attack"			type = "SOV_tank_light_attack_animation" }
+		animation = { id = "idle"			type = "SOV_tank_light_idle_animation" }
+		animation = { id = "move"			type = "SOV_tank_light_moving_animation" }
+		meshsettings = {
+			texture_diffuse = "POL_t70.dds"
+		}
+	}
+	
+	pdxmesh = {
 		name = "POL_pt76_mesh"
 		file = "gfx/models/units/tanks/pt76.mesh"
 
@@ -44,6 +56,30 @@ objectTypes = {
 		animation = { id = "attack"			type = "SOV_heavy_armor_1_attack_animation" }
 		meshsettings = {
 			texture_diffuse = "IS2POL.dds"
+		}
+	}
+	
+	pdxmesh = {
+		name = "POL_IS3_mesh"
+		file = "gfx/models/units/tanks/is3.mesh"
+
+		animation = { id = "attack"			type = "ENG_medium_armor_1_attack_animation" }
+		animation = { id = "idle"			type = "ENG_medium_armor_1_idle_animation" }
+		animation = { id = "move"			type = "ENG_medium_armor_1_moving_animation" }
+		meshsettings = {
+			texture_diffuse = "POL_is3.dds"
+		}
+	}
+	
+	pdxmesh = {
+		name = "POL_IS4_mesh"
+		file = "gfx/models/units/tanks/is4.mesh"
+
+		animation = { id = "attack"			type = "SOV_heavy_armor_1_attack_animation" }
+		animation = { id = "idle"			type = "SOV_heavy_armor_1_idle_animation" }
+		animation = { id = "move"			type = "SOV_heavy_armor_1_moving_animation" }
+		meshsettings = {
+			texture_diffuse = "POL_is4.dds"
 		}
 	}
 
